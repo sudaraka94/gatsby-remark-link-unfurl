@@ -65,7 +65,7 @@ const processNode = async (
           metaData.twitter_card?.description ??
           metaData.open_graph?.description ??
           metaData.description,
-        url: metaData.twitter_card?.url ?? metaData.open_graph?.url,
+        url: metaData.open_graph?.url ?? node.url,
         video: metaData.open_graph?.videos?.[0] || undefined,
         // audio: ,
         image:
