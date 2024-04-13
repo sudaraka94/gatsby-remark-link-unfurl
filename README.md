@@ -1,3 +1,8 @@
+> [!NOTE]
+> This repo is a fork of [hgezim/gatsby-remark-link-unfurl](https://www.npmjs.com/package/gatsby-remark-link-unfurl) plugin and 
+> publishing to NPM until my [PR](https://github.com/hgezim/gatsby-remark-link-unfurl/pull/6) for fixing the plugin gets merged.
+
+
 # Show Link Previews In Your Markdown with Gatsby Remark Link Unfurl
 
 Transform your boring old blue-underlined links in your Gatsby blog:
